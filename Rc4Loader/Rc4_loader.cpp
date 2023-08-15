@@ -46,8 +46,8 @@ int rc4_crypt(unsigned char* s, unsigned char* buf, unsigned long Len)
 }
 int main()
 {
-	char key[] = "cookie";	//Rc4解密的Key
-	//要解密的ShellCode
+	char key[] = "cookie";	//Rc4瑙ｅ瘑鐨凨ey
+	//瑕佽В瀵嗙殑ShellCode
 	unsigned char buf[] =
 		"";
 
